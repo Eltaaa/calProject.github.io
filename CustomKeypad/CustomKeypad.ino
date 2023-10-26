@@ -7,6 +7,9 @@
 || | Demonstrates changing the keypad size and key values.
 || #
 */
+
+// We use Keypad example code provided from library itself and extends lcd and calculation part
+// :)
 #include <Keypad.h>
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
