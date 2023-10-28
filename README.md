@@ -15,4 +15,4 @@ Mini Calculator project for Physical Computing
 
 Link Website : https://eltaaa.github.io/calProject.github.io/
 
-Video สาธิตการทำงาน : https://www.youtube.com/watch?v=84Vi1Mbhzsw
+Video สาธิตการทำงาน : https://youtu.be/aTe3jzIKu4s
